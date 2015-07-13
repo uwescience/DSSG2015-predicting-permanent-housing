@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Introduction: Joan
-permalink: /2015_07_03_joan_introduction
+layout: post
+title: "Introduction: Joan"
+permalink: /2015-07-03-joan-introduction
+author: Joan Wang
 ---
 
 My name is Joan, and I am one of four student interns working on identifying the barriers and facilitators for homeless families to secure permanent housing, in collaboration with the Gates Foundation. Here’s a bit about myself: I am currently pursuing an EU-funded dual master’s degree in spatial planning and environmental policy at Cardiff University (Wales, UK). Before that, I completed an interdisciplinary bachelor’s degree in mathematics-economics from Reed College (Portland, OR). I have a social-sciences background with a predominantly quantitative and data-intensive skillset, and I have interests in urban economics and sustainability. In particular, my past research projects and work experiences have revolved around energy efficiency and urban food systems.
