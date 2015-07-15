@@ -7,7 +7,7 @@ author: Joan Wang
 
 My name is Joan, and I am one of four student interns working on identifying the barriers and facilitators for homeless families to secure permanent housing, in collaboration with the Gates Foundation. Here’s a bit about myself: I am currently pursuing an EU-funded dual master’s degree in spatial planning and environmental policy at Cardiff University (Wales, UK). Before that, I completed an interdisciplinary bachelor’s degree in mathematics-economics from Reed College (Portland, OR). I have a social-sciences background with a predominantly quantitative and data-intensive skillset, and I have interests in urban economics and sustainability. In particular, my past research projects and work experiences have revolved around energy efficiency and urban food systems.
 
-<img src="url" alt="Joan" style="width:300px;">
+<img src="http://uwescience.github.io/DSSG2015-predicting-permanent-housing/images/joan.jpg" alt="Joan" style="width:300px;">
 
 Having grown up in Bellevue just across Lake Washington, I always keep an eye out for innovative projects that are sprouting up in the Greater Seattle area—especially those that connect with surrounding urban communities—so naturally I jumped at the chance to participate in the Data Science for Social Good (DSSG) program. When I was writing the motivation letter, I had to refrain from frantically typing: Data science! Urban studies! Working on real-world projects that combine these two is a life-long dream!  I believe what I ended up with was this vague idea that DSSG allows me to use “mixed data analytics and critical social science … to help understand – and solve – complex real-world issues facing Puget Sound communities today.”
 
