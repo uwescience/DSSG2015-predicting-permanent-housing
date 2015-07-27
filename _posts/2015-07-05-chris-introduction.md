@@ -5,7 +5,9 @@ permalink: /2015-07-05-chris-introduction
 author: Chris Suberlak
 ---
 
-One may think that interdisciplinary research is very hard to define. It may appear to be somewhat like the famous comic strip parody <img src="http://imgs.xkcd.com/comics/interdisciplinary.png" alt="Interdisciplinary XKCD" style="width:348px;">
+One may think that interdisciplinary research is very hard to define. It may appear to be somewhat like the famous comic strip parody 
+
+<img src="http://imgs.xkcd.com/comics/interdisciplinary.png" alt="Interdisciplinary XKCD" style="width:348px;">
 
 
 In fact, according to the Oxford Dictionary, [interdisciplinary and transdisciplinary](http://www.oxforddictionaries.com/us/definition/american_english/transdisciplinary) research is almost viewed synonymously as bringing together researchers from various backgrounds to collaborate towards a common goal. 
