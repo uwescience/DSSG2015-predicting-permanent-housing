@@ -23,7 +23,7 @@ De-identified individual records from 2011-2014 were extracted separately by eac
 
 We developed algorithms to identify families from the individual enrollments and to identify 'episodes' of homelessness that could span several back-to-back or overlapping enrollments in individual programs. We devised innovative ways to visualize and analyze the ways families move from program to program through the HMIS system, including interactive [Sankey diagrams](tinyurl.com/dssg-homeless) and trajectory plots (see below). These visualizations were particularly interesting and helpful to the county data leads, who have already used them to identify sources of coding errors and to evaluate some of their programs.
 
-<img src="http://uwescience.github.io/DSSG2015-predicting-permanent-housing/images/PierceTrajectories.png.jpg" alt="Trajectories in Pierce county" style="width:300px;">
+<img src="http://uwescience.github.io/DSSG2015-predicting-permanent-housing/images/PierceTrajectories.png" alt="Trajectories in Pierce county" style="width:300px;">
 
 The automated analysis pipeline that the team developed exports clean data ready for statistical analysis across all three counties, enabling both in-depth studies and quick exploratory analysis to answer new questions as they arise. The Gates Foundation is working to incorporate the code so that it can continue to be used for new data as it comes in, and for new analyses.
 
