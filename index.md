@@ -6,7 +6,6 @@ layout: home
 <div class="logo-bar">
 </div>
 </div>
-  <h1 class="page-heading">Predictors of Permanent Housing for Homeless Families</h1>
 
 **Project Leads**: Neil Roche and Anjana Sundaram, [The Bill and Melinda Gates Foundation](http://www.gatesfoundation.org/)
 
