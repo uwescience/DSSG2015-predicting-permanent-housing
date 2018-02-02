@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Galaxy clusters and families…"
-permalink: /2015-07-27-chris-galaxy-clusters
+permalink: /2015-07-27-chris-galaxy-clusters/
 author: Chris Suberlak
 ---
 

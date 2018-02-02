@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introduction : Chris"
-permalink: /2015-07-05-chris-introduction
+permalink: /2015-07-05-chris-introduction/
 author: Chris Suberlak
 ---
 

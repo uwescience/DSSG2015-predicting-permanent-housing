@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introduction: Joan"
-permalink: /2015-07-03-joan-introduction
+permalink: /2015-07-03-joan-introduction/
 author: Joan Wang
 ---
 

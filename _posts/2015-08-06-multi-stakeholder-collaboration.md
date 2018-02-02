@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multi-stakeholder Collaboration"
-permalink: /2015-08-06-multi-stakeholder-collaboration
+permalink: /2015-08-06-multi-stakeholder-collaboration/
 author: Joan Wang
 ---
 

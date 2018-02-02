@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introduction: Jason"
-permalink: /2015-07-16-jason-introduction
+permalink: /2015-07-16-jason-introduction/
 author: Jason Portenoy
 ---
 

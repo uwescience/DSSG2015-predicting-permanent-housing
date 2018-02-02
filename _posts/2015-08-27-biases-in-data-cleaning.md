@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Considering Biases at the Data Cleaning Stage"
-permalink: /2015-08-27-biases-in-data-cleaning
+permalink: /2015-08-27-biases-in-data-cleaning/
 author: Fabliha Ibnat
 ---
 [Chris's work on hierarchical clustering](https://uwescience.github.io/DSSG2015-predicting-permanent-housing/2015-07-27-chris-galaxy-clusters) made it clear that the families in our data are dynamic. They often change across enrollments, growing as children are born and family members reconnect, shrinking as members break away and occasionally reappear in enrollments with other families. The data reflects the complex and mutable relationships that comprise families – which makes perfect sense, since no family is truly static. This raises questions about how to best track a family and its characteristics, and how our methods will ultimately affect the results of our statistical analysis.
