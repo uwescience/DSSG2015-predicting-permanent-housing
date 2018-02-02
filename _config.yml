@@ -2,8 +2,8 @@
 title: Predictors of Permanent Housing for Homeless Families
 email: arokem@gmail.com
 description: ""
-baseurl: "http2://uwescience.github.io/DSSG2015-predicting-permanent-housing"
-url: "http2://uwescience.github.io/DSSG2015-predicting-permanent-housing"
+baseurl: "https://uwescience.github.io/DSSG2015-predicting-permanent-housing"
+url: "https://uwescience.github.io/DSSG2015-predicting-permanent-housing"
 permalink: ":title/"
 twitter_username: uwescience
 github_username:  uwescience
