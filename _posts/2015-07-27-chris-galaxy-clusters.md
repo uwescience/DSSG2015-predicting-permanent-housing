@@ -10,7 +10,7 @@ What do the two have in common ? It seems that the two notions come from complet
 Fig.1  shows what galaxies look like when viewed from a great distance of [redshift](http://webbtelescope.org/webb_telescope/science_on_the_edge/cosmological_redshift.php)  z=0.780 ([few thousands of Megaparsecs](http://www.astro.ucla.edu/~wright/CosmoCalc.html) ). Each dot in this image is an individual galaxy, containing each  on average a billion of stars. 
 
 <figure>
-    <img src="http://uwescience.github.io/DSSG2015-predicting-permanent-housing/images/Fig_6.15_matplotlib.png" alt="Galaxy Clustering" style="width:720px;">
+    <img src="https://uwescience.github.io/DSSG2015-predicting-permanent-housing/images/Fig_6.15_matplotlib.png" alt="Galaxy Clustering" style="width:720px;">
     <figcaption> Fig.1 :  This figure shows on the upper panel galaxies forming a giant structure so-called SDSS Great Wall. The lower panel shows  clustering based on  a minimum spanning tree dendrogram, which connects the closest neighbors into a cluster - only clusters with 30 galaxies or more are shown. The figure   is based on the data presented in Figure 1 of Cowan & Ivezic (2008). I modified the code, based on the publicly available SDSS dataset. A similar figure appears in the book “Statistics, Data Mining, and Machine Learning in Astronomy”, by Ivezic, Connolly, Vanderplas, and Gray (2013). </figcaption>
 </figure>
 

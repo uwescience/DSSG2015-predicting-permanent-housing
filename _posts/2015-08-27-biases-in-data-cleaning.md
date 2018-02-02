@@ -4,7 +4,7 @@ title: "Considering Biases at the Data Cleaning Stage"
 permalink: /2015-08-27-biases-in-data-cleaning
 author: Fabliha Ibnat
 ---
-[Chris's work on hierarchical clustering](http://uwescience.github.io/DSSG2015-predicting-permanent-housing/2015-07-27-chris-galaxy-clusters/) made it clear that the families in our data are dynamic. They often change across enrollments, growing as children are born and family members reconnect, shrinking as members break away and occasionally reappear in enrollments with other families. The data reflects the complex and mutable relationships that comprise families – which makes perfect sense, since no family is truly static. This raises questions about how to best track a family and its characteristics, and how our methods will ultimately affect the results of our statistical analysis.
+[Chris's work on hierarchical clustering](https://uwescience.github.io/DSSG2015-predicting-permanent-housing/2015-07-27-chris-galaxy-clusters) made it clear that the families in our data are dynamic. They often change across enrollments, growing as children are born and family members reconnect, shrinking as members break away and occasionally reappear in enrollments with other families. The data reflects the complex and mutable relationships that comprise families – which makes perfect sense, since no family is truly static. This raises questions about how to best track a family and its characteristics, and how our methods will ultimately affect the results of our statistical analysis.
 
 This issue alludes to the broader challenges of data bias, which are introduced to the data by the decisions we make about which variables to track and which variables to ignore. A common theme that has emerged from the data science workshops we've attended is that collecting and cleaning data is an inherently subjective process. Many data sets are collected by a particular entity to answer specific types of questions to accomplish a particular goal. The quality of survey data often hinges on the wording of the survey questions, which can be influenced by the researcher's own biases. A confusing or misleading question can lead to a misleading variable. Therefore, to an extent, data reflects the researcher's values and belief systems, and does not necessarily quantify objective truth.
 
@@ -14,7 +14,7 @@ Fields like economics place much of the scrutiny on p-values, which are used to 
 
 
 <figure>
-<img src="http://uwescience.github.io/DSSG2015-predicting-permanent-housing/images/p-values.png" alt="" style="width:200px;">
+<img src="https://uwescience.github.io/DSSG2015-predicting-permanent-housing/images/p-values.png" alt="" style="width:200px;">
 <figcaption>Figure taken from <a href="http://www.nature.com/news/statistics-p-values-are-just-the-tip-of-the-iceberg-1.17412">this article</a> by Jeffrey Leek and Roger Peng.</figcaption>
 </figure>
 
