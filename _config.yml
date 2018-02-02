@@ -4,7 +4,7 @@ email: arokem@gmail.com
 description: ""
 baseurl: "/DSSG2015-predicting-permanent-housing"
 url: "https://uwescience.github.io"
-permalink: ":slug/"
+permalink: "/:slug/"
 twitter_username: uwescience
 github_username:  uwescience
 
